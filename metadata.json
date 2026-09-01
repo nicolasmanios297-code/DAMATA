@@ -1,0 +1,7 @@
+{
+  "name": "DAMATA Pizza",
+  "description": "Página web oficial y menú digital de DAMATA Pizza en Belén Rincón. Pizzas artesanales, pastas, lasagnas y pedidos directos por WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
